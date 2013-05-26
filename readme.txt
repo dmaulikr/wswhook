@@ -1,5 +1,2 @@
-wswhook by mowl
-
-A small hobby project that hosts code in Warsow and manipulates the game to take advantage over opponents.
-
-Note: I removed some vital pieces of code to make this hook useless to anyone not knowing a thing about coding.
+I decided to release the source code of a small hobby project for educational purpose.
+This is a perfect example of game manipulation and code spawning in other processes.
